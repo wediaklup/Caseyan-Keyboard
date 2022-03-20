@@ -1,5 +1,5 @@
 THIS WILL ONLY WORK ON A WINDOWS MACHINE
-КОНО ВИРКАŸТШΛИ ĂΘЕНС НА ДЭШНИНОПОСИ WINDOWS
+ШÈЭНЗY ВИРКАŸТШΛИ ĂΘЕНС НА ДЭШНИНОПОСИ WINDOWS
 DIES WIRD NUR AUF EINEM WINDOWS-COMPUTER FUNKTIONIEREN
 
 
