@@ -1,7 +1,7 @@
-CASEYAN v2.2
+CASEYAN v2.3
 
 THIS WILL ONLY WORK ON A WINDOWS MACHINE
-ШÈЭНЗY ВИРКАŸТШΛИ ĂΘЕНС НА ДЭШНИНОПОСИОГŌРТ WINDOWS
+ШÈЭНЗY ВИРКАŸТШΛИ ĂҘЕНС НА ДЭШНИНОПОСИОГŌРТ WINDOWS
 DIES WIRD NUR AUF EINEM WINDOWS-COMPUTER FUNKTIONIEREN
 
 
